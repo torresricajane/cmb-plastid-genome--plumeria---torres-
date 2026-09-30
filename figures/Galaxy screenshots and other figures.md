@@ -1,3 +1,4 @@
+## Galaxy and NCBI screenshots
 
 <img width="376" height="91" alt="image" src="https://github.com/user-attachments/assets/deeec1ad-ee5a-47e6-ae0b-2aa77a4a8700" />
 
