@@ -314,3 +314,17 @@ Complete chloroplast genomes can be compared among *Plumeria* species to identif
 **Which nuclear genes are associated with differences in flower color among *Plumeria* plants?**
 
 Nuclear genomic data would be more suitable because flower color may involve multiple genes located throughout the nuclear chromosomes. Chloroplast data alone would not provide the complete genetic information needed to investigate this type of nuclear trait.
+
+## 10. References
+
+National Center for Biotechnology Information (NCBI). Plumeria rubra cultivar Acutifolia chloroplast genome, accession MN812495.1.
+https://www.ncbi.nlm.nih.gov/nuccore/MN812495.1
+
+Plumeria rubra cultivar Acutifolia chloroplast genome study.
+https://pmc.ncbi.nlm.nih.gov/articles/PMC7748865/
+
+NCBI. Plumeria rubra chloroplast genome FASTA sequence, accession MN812495.1.
+https://www.ncbi.nlm.nih.gov/nuccore/MN812495.1?report=fasta
+
+UseGalaxy.org. **Plastid Plumeria Torres** Galaxy history/workflow used for the genome analysis.  
+  https://usegalaxy.org/u/ricajanetorres/h/plastid-plumeria-torres
