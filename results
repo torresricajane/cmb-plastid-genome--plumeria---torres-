@@ -1,0 +1,35 @@
+## 4. Data Source and Genome Selection
+
+The selected genome in this analysis is a complete chloroplast genome of *Plumeria rubra* cultivar *Acutifolia*. The genome was obtained from 
+the NCBI GenBank/Nucleotide database using accession MN812495.1.
+
+| **Information** | **Details** |
+|---|---|
+| **Genus** | Plumeria |
+| **Species name** | *Plumeria rubra* cultivar *Acutifolia* |
+| **Common name** | Frangipani |
+| **Family** | Apocynaceae |
+| **Organelle** | Chloroplast (plastid) |
+| **Genome type** | Complete chloroplast genome |
+| **NCBI accession/version** | MN812495.1 |
+| **Database** | NCBI GenBank / Nucleotide |
+| **Genome length** | 153,912 bp |
+| **Topology** | Circular |
+| **Sequence status** | Complete genome |
+| **Source** | NCBI Nucleotide / GenBank |
+| **Associated publication** | Wang, D.-L., Liu, Y.-Y., Tian, D., Yu, L.-Y., & Gui, L.-J. (2020). *Characterization of the complete chloroplast genome of
+Plumeria rubra cv. Acutifolia (Apocynaceae).* |
+| **Publication link** | https://pmc.ncbi.nlm.nih.gov/articles/PMC7748865/ |
+| **NCBI record** | https://www.ncbi.nlm.nih.gov/nuccore/MN812495.1 |
+
+## 5. Files to Obtain
+
+The following files and sources were used for the *Plumeria rubra* cultivar *Acutifolia* chloroplast genome analysis.
+
+| **File** | **Format** | **Purpose** | **File/Accession** |
+|---|---|---|---|
+| Genome sequence | FASTA | To upload the sequence to Galaxy and obtain sequence statistics. | *Plumeria rubra* chloroplast genome, MN812495.1 |
+| Annotated genome | GenBank / RefSeq | To examine genes, coordinates, introns, pseudogenes, and other annotated features. | *Plumeria rubra* chloroplast 
+genome, MN812495.1 |
+| Source information | NCBI record link / accession | To document the original source of the genome used in the analysis. | 
+[NCBI MN812495.1](https://www.ncbi.nlm.nih.gov/nuccore/MN812495.1) |
