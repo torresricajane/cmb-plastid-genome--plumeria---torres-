@@ -1,8 +1,11 @@
 # Visualize Plastid Genome Structure
 
 **Name:** Rica Jane Torres
+
 **Scientific name of plant:** *Plumeria rubra* cultivar *Acutifolia*
+
 **NCBI accession number:** MN812495.1
+
 **Plastid genome length:** 153,912 bp
 
 ## Source of the genome file
