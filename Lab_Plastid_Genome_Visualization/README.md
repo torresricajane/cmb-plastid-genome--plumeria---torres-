@@ -1,46 +1,26 @@
-# Plastid Genome Visualization
+# Visualize Plastid Genome Structure
 
 **Name:** Rica Jane Torres
+**Scientific name of plant:** *Plumeria rubra* cultivar *Acutifolia*
+**NCBI accession number:** MN812495.1
+**Plastid genome length:** 153,912 bp
 
-## Plant Used
+## Source of the genome file
+https://www.ncbi.nlm.nih.gov/nuccore/MN812495.1
 
-*Plumeria rubra* cultivar *Acutifolia*
-
-## Plastid Genome Accession
-
-**MN812495.1**
-
-## Genome Size
-
-**153,912 bp**
-
-## Genome Source
-
-[NCBI Nucleotide – MN812495.1](https://www.ncbi.nlm.nih.gov/nuccore/MN812495.1)
-
-## Visualization Tool
-
+## Software used
 OGDRAW: https://chlorobox.mpimp-golm.mpg.de/OGDraw.html
 
-## OGDRAW Settings
+## A short description of the OGDRAW settings used
+- Standard map mode, circular genome map, Plastid sequence source, automatic inverted-repeat detection, GC content graph, transcription direction, and full legend were used. The map was saved as a PNG file.
 
-The genome was displayed as a **circular plastid map** using the standard OGDRAW mode. The plastid sequence option and automatic IR detection were used. The map includes gene labels, gene orientation, and the GC content graph. The output was saved as a PNG image.
-
-## Plastid Genome Map
-
+## The plastid genome map displayed in the README
 ![Plumeria rubra plastid genome map](figures/Plumeria_rubra_plastid_map.png)
 
-**Figure 1.** Circular chloroplast genome map of *Plumeria rubra* cultivar *Acutifolia* generated with OGDRAW, showing the genome regions, annotated genes, gene orientation, and GC content.
+*Figure 1.* Circular plastid genome map of *Plumeria rubra* cultivar *Acutifolia* generated using OGDRAW, showing gene organization, transcription direction, inverted repeat regions, and GC content.
 
-## Main Features Observed
-The *Plumeria rubra* chloroplast genome is a circular DNA molecule measuring **153,912 bp**. It contains the **LSC, SSC, IRa, and IRb** regions. The map displays genes associated with photosynthesis, energy production, transcription, and protein synthesis. Gene arrows show their orientation, while the GC content graph shows changes in base composition across different parts of the genome.
+## A short paragraph describing the main structural features observed in your plastid genome
+- The *Plumeria rubra* chloroplast genome is a circular DNA molecule with a length of 153,912 bp. It contains four main regions: the large single-copy (LSC) region, small single-copy (SSC) region, and two inverted repeat regions (IRa and IRb). The map shows genes involved in photosynthesis, energy production, transcription, and protein synthesis. It also shows the direction of transcription and the GC content across the genome.
 
-## Part E Answers
-The answers to the plastid genome map questions are provided in:
-
+## A link to or location of your Lab_plastid_genome_answers.md file
 [Lab_plastid_genome_answers.md](answers/Lab_plastid_genome_answers.md)
-
-## Data File
-The annotated GenBank file used for the genome map is located in the `data` folder:
-
-`data/Plumeria_rubra_MN812495.1.gb`
