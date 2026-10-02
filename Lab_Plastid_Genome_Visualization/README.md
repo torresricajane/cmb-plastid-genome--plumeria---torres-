@@ -26,4 +26,4 @@ OGDRAW: https://chlorobox.mpimp-golm.mpg.de/OGDraw.html
 - The *Plumeria rubra* chloroplast genome is a circular DNA molecule with a length of 153,912 bp. It contains four main regions: the large single-copy (LSC) region, small single-copy (SSC) region, and two inverted repeat regions (IRa and IRb). The map shows genes involved in photosynthesis, energy production, transcription, and protein synthesis. It also shows the direction of transcription and the GC content across the genome.
 
 ## A link to or location of your Lab_plastid_genome_answers.md file
-[Lab_plastid_genome_answers.md](answers/Lab_plastid_genome_answers.md)
+https://github.com/torresricajane/cmb-plastid-genome--plumeria---torres-/blob/main/Lab_Plastid_Genome_Visualization/Answer/Lab_plastid_genome_answers.md
